@@ -1,0 +1,19 @@
+.bg-dark{
+    background: rgb(39, 39, 39);
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 0;
+
+    height: 865px;
+}
+
+canvas{
+    background: rgb(17, 1, 54);
+    border: 5px solid rgb(130, 127, 134);
+}
